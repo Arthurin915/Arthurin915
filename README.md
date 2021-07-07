@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github 👋
 
-- 🛠 I'm working as a Fullstack Developer, using Vue.js, React.js or Angular in the Front-End and .NET, Node.js or PHP in the Back-end
+- 🛠 I'm working as a Fullstack Developer, using technologies like Vue.js, React.js, Angular, .NET, Node.js and PHP
 - 🌱 I’m currently learning Clean Architecure on ASP.NET Core APIs
 - 👯 I’m looking to collaborate on different projects to explore new languages
 - 💬 Ask me about Vue.js, Javascript or anything about web development
