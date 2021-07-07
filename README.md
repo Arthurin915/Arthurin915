@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurin915&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurin915&hide=TeX&layout=compact&theme=tokyonight)
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurin915&theme=tokyonight&show_icons=true&count_private=true)
 
